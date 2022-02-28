@@ -1,5 +1,6 @@
 # Mod-lisation-et-Conception-d-une-Base-de-donn-es-2
 Modélisation, Conception et implémentation d'une Base de données 2
+## Contexte du projet ##
 
 La société El-massar souhaite réaliser une application web pour la gestion de ses huit hôtels. Chaque hôtel est caractérisé par son nom, son adresse, CPH, Téléphone et un code unique. Chaque hôtel contient environ 80 chambres, une chambre est caractérisée par son numéro et un numéro de téléphone. On considère que ces hôtels sont classés en 4 catégories ou classes: nombre d'étoiles de un à cinq étoiles, et les caractéristiques. Chaque hôtel possède au maximum neuf catégories de chambres différentes. Une catégorie est connue par son Code (code Catégorie) et une Description. Cette application consiste à réaliser les tâches suivantes :
 
